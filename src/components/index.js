@@ -1,0 +1,8 @@
+export { default as Header } from './Header'
+export * from './generalComponents'
+export * from './HeroSection'
+export * from './RewardSection'
+export * from './Transaction'
+export * from './Whatelse'
+export * from './Transaction'
+export * from './Footer'

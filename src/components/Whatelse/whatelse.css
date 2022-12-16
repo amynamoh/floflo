@@ -1,0 +1,107 @@
+.whatelse {
+  width: 83.33%;
+  margin: 12rem auto;
+  /* min-height: 100vh; */
+  /* overflow: hidden; */
+}
+
+.whatelse__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.whatelse__right {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  width: 50%;
+}
+
+.whatelse__right--list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 4rem;
+  /* line-height: 173%; */
+  color: #1e1e1e;
+}
+
+.whatelse__right--list-item {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 144%;
+  color: #444444;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.whatelse__left {
+  position: relative;
+}
+
+.whatelse__left--image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.whatelse__left--overlay {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1100px) {
+  .heading {
+    font-size: 3.2rem;
+  }
+
+  .whatelse__container {
+ gap: 4rem;
+}
+
+.whatelse__right--list-item {
+  
+  font-size: 1.4rem;
+  
+}
+
+ 
+
+  
+  
+
+  
+}
+@media screen and (max-width: 600px) {
+
+.whatelse__container {
+    flex-direction: column;
+    gap: 5.6rem;
+  }
+
+  .whatelse__right {
+    width: 100%;
+  }
+
+  .whatelse__left {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+  }
+
+  
+  
+
+
+
+}
