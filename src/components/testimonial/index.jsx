@@ -20,7 +20,7 @@ const Testimonial = () => {
                 <span className="quotemark">“ </span>
                 <span>SaveGuard </span>helped me reduce my spending habit. I
                 needed money for my house rent so I started saving with
-                SaveSpace, I was able to save with discipline.
+                SaveGuard, I was able to save with discipline.
                 <span className="quotemark"> ”</span>
               </p>
               <h4 className="author">
