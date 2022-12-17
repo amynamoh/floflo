@@ -10,15 +10,15 @@ const Transaction = () => {
         <div className="transactions__container">
           <div className="transactions__left">
             <h4 className="heading">
-              SaveSpace, Your all in one savings application.
+            SaveGuard, Your all in one savings application.
             </h4>
             <ul className="transactions__left--list">
               <li className="transactions__left--list-item">
-                SaveSpace allows you to track your transactions quick and
+              SaveGuard allows you to track your transactions quick and
                 easily.
               </li>
               <li className="transactions__left--list-item">
-                SaveSpace products and services are complete and varies in all
+              SaveGuard products and services are complete and varies in all
                 segments according to users needs.
               </li>
               <li className="transactions__left--list-item">

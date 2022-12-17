@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from '../../assests/images/save-logo.svg'
+import Logo from '../../assests/images/saveguard.png'
 import { Link } from 'react-scroll';
 import './header.css'
 import { Button } from '../generalComponents';
@@ -12,7 +12,7 @@ const Header = () => {
       <header>
         <div className="header__content">
           <div className="header__logo">
-            <img src={Logo} alt="header-logo" />
+            <img src={Logo} id alt="header-logo" />
           </div>
 
           <nav className="nav__desktop">

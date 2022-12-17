@@ -21,10 +21,10 @@ const Whatelse = () => {
           /> */}
         </div>
         <div className="whatelse__right">
-          <h4 className="heading">What else can you do with SaveSpace?</h4>
+          <h4 className="heading">What else can you do with SaveGuard?</h4>
           <ul className="whatelse__right--list">
             <li className="whatelse__right--list-item">
-              Are you scared of participating in ajo, esusu or adashe? SaveSpace
+              Are you scared of participating in ajo, esusu or adashe? SaveGuard
               allows you participate in thrift worry free.
             </li>
             <li className="whatelse__right--list-item">
@@ -32,7 +32,7 @@ const Whatelse = () => {
               maximum guarantee and transparency.
             </li>
             <li className="whatelse__right--list-item">
-              SaveSpace allows you to invest your money in different industries,
+            SaveGuard allows you to invest your money in different industries,
               with mouth watering ROI.
             </li>
           </ul>

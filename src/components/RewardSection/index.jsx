@@ -31,13 +31,13 @@ const RewardSection = () => {
             <div className="reward__list--item">
               <img src={userAdd} alt="" className="list__icon" />
               <p className="list__item--text">
-                Create a SaveSpace account to get started. It’s free!!!{" "}
+                Create a SaveGuard account to get started. It’s free!!!{" "}
               </p>
             </div>
             <div className="reward__list--item">
               <img src={cardAdd} alt="" className="list__icon" />
               <p className="list__item--text">
-                Link your bank account to your SaveSpace account. Don’t worry
+                Link your bank account to your SaveGuard account. Don’t worry
                 your details are safe with us.
               </p>
             </div>

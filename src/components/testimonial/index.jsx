@@ -18,13 +18,13 @@ const Testimonial = () => {
             <div>
               <p className="quote">
                 <span className="quotemark">“ </span>
-                <span>SaveSpace </span>helped me reduce my spending habit. I
+                <span>SaveGuard </span>helped me reduce my spending habit. I
                 needed money for my house rent so I started saving with
                 SaveSpace, I was able to save with discipline.
                 <span className="quotemark"> ”</span>
               </p>
               <h4 className="author">
-                <span>Ade Lola -</span> Student
+                <span>Peter John -</span> Student
               </h4>
             </div>
           </div>
